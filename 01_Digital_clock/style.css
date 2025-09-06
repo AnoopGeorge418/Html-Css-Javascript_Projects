@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #355C7D;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.timings {
+    font-size: 12rem;
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .timings {
+        font-size: 5rem;
+        font-weight: bold;
+    }
+}
