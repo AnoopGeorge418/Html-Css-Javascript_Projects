@@ -7,5 +7,5 @@ Learning html, csss and javascript by doing projects.
 
 2. Color Flipper - A simple background clor changer builded using html, css and javascript(Math.Random(), floor() function, eventlistners).
     - [GithubLink](https://github.com/AnoopGeorge418/Html-Css-Javascript_Projects/tree/main/02_ColorFlipper)
-    - [Live App Link](https://project-colorflipper.vercel.app/)
+    - [Live App Link](https://projectcolorflipper.vercel.app/)
 
